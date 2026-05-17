@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-██╗      █████╗ ██╗  ██╗██╗  ██╗███████╗██╗███████╗
-██║     ██╔══██╗██║ ██╔╝██║  ██║██╔════╝██║██╔════╝
-██║     ███████║█████╔╝ ███████║█████╗  ██║█████╗
-██║     ██╔══██║██╔═██╗ ██╔══██║██╔══╝  ██║██╔══╝
-███████╗██║  ██║██║  ██╗██║  ██║██║     ██║██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝
-```
-
 ### `> El Housseine Lakhfif` · Software Engineer · DevSecOps Practitioner
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Shift-left+security+advocate;Container+hardening+%26+zero-trust+pipelines;Systems+programmer+%7C+C+%2F+C%2B%2B+%2F+Python;Building+systems+that+fail+safely" alt="Typing SVG" />
@@ -49,7 +40,7 @@ STATUS      : Seeking internship opportunities
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                    ★  DevSecOps Pipeline  ★                         ║
+║                    ★  DevSecOps Pipeline  ★                          ║
 ╠════════════════╦════════════════╦═════════════════╦══════════════════╣
 ║      DEV       ║      SEC       ║       OPS       ║  OBSERVABILITY   ║
 ╠════════════════╬════════════════╬═════════════════╬══════════════════╣
