@@ -87,41 +87,11 @@ STATUS      : Seeking internship opportunities
 
 ---
 
-## `git log --oneline ./projects/`
+## `ls ./projects/`
 
-### 🎮 [CloudPong](https://github.com/tarzaannnnnn) · `2025`
-> **Real-time multiplayer gaming platform** — Django · PostgreSQL · WebSockets · Docker · OAuth2
+All source code and projects are on my GitHub:
 
-```
-✓ Secure OAuth2 authentication (42 API + Google)
-✓ Real-time matchmaking, 2FA, friend system, leaderboards
-✓ Dockerized microservices deployment
-✓ RESTful APIs + Vanilla JS frontend
-```
-
----
-
-### 🐳 [TinyInfra Docker "Inception"](https://github.com/tarzaannnnnn) · `2024`
-> **Fully containerized web hosting environment** — Docker · Nginx · WordPress · MariaDB
-
-```
-✓ Reverse proxy with SSL termination via Nginx
-✓ Custom Dockerfiles, persistent volumes, isolated networks
-✓ Hardened following Linux sysadmin & IaC best practices
-✓ Modular service orchestration with Docker Compose
-```
-
----
-
-### 🌐 [Webserver_nginxClone](https://github.com/tarzaannnnnn) · `2025`
-> **HTTP/1.1 web server from scratch** — C++ · Non-blocking I/O · CGI
-
-```
-✓ GET, POST, DELETE methods + CGI execution
-✓ Non-blocking sockets using select() for concurrent clients
-✓ Chunked transfer encoding, custom error pages
-✓ Full HTTP protocol compliance under concurrent load
-```
+[![GitHub](https://img.shields.io/badge/github.com%2Ftarzaannnnnn-0D1117?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/tarzaannnnnn?tab=repositories)
 
 ---
 
@@ -141,11 +111,11 @@ STATUS      : Seeking internship opportunities
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarzaannnnnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarzaannnnnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarzaannnnnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarzaannnnnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarzaannnnnn&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tarzaannnnnn&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
 
@@ -154,10 +124,10 @@ STATUS      : Seeking internship opportunities
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│    Built with intent. Secured by design.                │
-│    Automated where possible. Observed always.           │
-└─────────────────────────────────────────────────────────┘
+                                ┌─────────────────────────────────────────────────────────┐
+                                │    Built with intent. Secured by design.                │
+                                │    Automated where possible. Observed always.           │
+                                └─────────────────────────────────────────────────────────┘
 ```
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tarzaannnnnn.tarzaannnnnn&color=00FF41)
