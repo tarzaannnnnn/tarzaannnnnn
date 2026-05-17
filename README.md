@@ -79,7 +79,6 @@ All projects and source code are available on my GitHub:
 
 ## GitHub Stats
 
-
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarzaannnnnn&show_icons=true&theme=tokyonight&hide_border=true)
@@ -88,10 +87,8 @@ All projects and source code are available on my GitHub:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarzaannnnnn&theme=tokyonight&hide_border=true)
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![42 Stats](https://badge.mediaplus.ma/black/elakhfif)](https://github.com/oakoudad/badge42)
-
 </div>
+
 
 ---
 
