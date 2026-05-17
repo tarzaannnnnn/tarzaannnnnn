@@ -73,7 +73,7 @@ Believer in shift-left security, infrastructure-as-code, and the idea that good 
 
 All projects and source code are available on my GitHub:
 
-🔗 **[github.com/7ARZAN?tab=repositories](https://github.com/7ARZAN?tab=repositories)**
+🔗 **[github.com/7ARZAN?tab=repositories](https://github.com/tarzaannnnnn?tab=repositories)**
 
 ---
 
@@ -82,7 +82,7 @@ All projects and source code are available on my GitHub:
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ARZAN&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark&bg_color=0d1117&title_color=6D4AFF&icon_color=6D4AFF)](https://github.com/7ARZAN?tab=repositories)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=6D4AFF)](https://github.com/7ARZAN?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ARZAN&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=6D4AFF)](https://github.com/tarzaannnnnn?tab=repositories)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![42 Stats](https://badge.mediaplus.ma/black/elakhfif)](https://github.com/oakoudad/badge42)
