@@ -111,10 +111,6 @@ All source code and projects are on my GitHub:
 
 <div align="center">
 
-![GitHub Stats](https://readme-stats.clckblog.space/api?username=tarzaannnnnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9)
-
-![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=tarzaannnnnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tarzaannnnnn&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
