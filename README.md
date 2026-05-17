@@ -116,10 +116,10 @@ All source code and projects are on my GitHub:
 <div align="center">
 
 ```
-                                  ┌─────────────────────────────────────────────────────────┐
-                                  │    Built with intent. Secured by design.                │
-                                  │    Automated where possible. Observed always.           │
-                                  └─────────────────────────────────────────────────────────┘
+         ┌─────────────────────────────────────────────────────────┐
+         │    Built with intent. Secured by design.                │
+         │    Automated where possible. Observed always.           │
+         └─────────────────────────────────────────────────────────┘
 ```
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tarzaannnnnn.tarzaannnnnn&color=00FF41)
