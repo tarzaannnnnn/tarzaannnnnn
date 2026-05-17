@@ -81,8 +81,13 @@ All projects and source code are available on my GitHub:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tarzaannnnnn&theme=tokyonight)(https://github.com/tarzaannnnnn?tab=repositories)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarzaannnnnn&layout=compact&cache_seconds=1800)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarzaannnnnn&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarzaannnnnn&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarzaannnnnn&theme=tokyonight&hide_border=true)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![42 Stats](https://badge.mediaplus.ma/black/elakhfif)](https://github.com/oakoudad/badge42)
