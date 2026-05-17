@@ -16,17 +16,13 @@
 
 ## `whoami`
 
-```bash
-$ cat /etc/profile.d/elhousseine.sh
-```
-
 ```
 NAME        : El Housseine Lakhfif
 ROLE        : Software Engineer | DevSecOps Practitioner
 SCHOOL      : 1337 Coding School (42 Network) — UM6P University
 PHILOSOPHY  : "Good systems don't just work — they fail safely."
 FOCUS       : Secure containerized infrastructure · Systems programming · CI/CD hardening
-STATUS      : Seeking internship opportunities
+STATUS      : Developing skills · Open to internships & work opportunities
 ```
 
 > Software engineering student at **1337 Coding School** — a 42 Network campus where there are no teachers, no lectures, only projects and peers.
