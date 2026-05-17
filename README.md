@@ -79,7 +79,6 @@ All projects and source code are available on my GitHub:
 
 ## GitHub Stats
 
-<div align="center">
 
 <div align="center">
 
