@@ -81,7 +81,7 @@ All projects and source code are available on my GitHub:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tarzaannnnnn&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=dark&bg_color=0d1117&title_color=6D4AFF&icon_color=6D4AFF)](https://github.com/tarzaannnnnn?tab=repositories)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tarzaannnnnn&theme=tokyonight)(https://github.com/tarzaannnnnn?tab=repositories)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarzaannnnnn&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&title_color=6D4AFF)](https://github.com/tarzaannnnnn?tab=repositories)
 
 
